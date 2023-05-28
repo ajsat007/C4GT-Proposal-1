@@ -18,6 +18,20 @@
 </tr>
 <tr>
 <th>Technical skills with level <br> <em><span>(Mention tech skills known and level Novice/Intermediate/Expert)</span></em></th>
-<td>Java Full Stack developer with hnadson Knowledge in web developement with Frontend and Backend Technology</td>
+<td>Java Full Stack developer with handson Knowledge in web developement with Frontend and Backend Technology
+<strong>Skills</strong>
+<ul>
+  <li>Java (Intermediate)</li>
+  <li>MySQL (Intermediate)</li>
+  <li>HTML (Intermediate)</li>
+  <li>CSS (Intermediate)</li>
+  <li>SpringBoot (Intermediate)</li>
+  <li>J2EE (Novice)</li>
+  <li>MongoDB (Novice)</li>
+  <li>JavaScript (Novice)</li>
+</ul>
+</td>
 </tr>
 </table>
+
+# TITLE
