@@ -47,7 +47,7 @@ the team and grow professionally in this field.
 
 # Projects 
 
-<h2>AN ECOMMERCE CONSOLE PROJECT(JAVA)</h2>
+<h2> 1. AN ECOMMERCE CONSOLE PROJECT(JAVA)</h2>
 <p>This is an eCommerce console application utilizing OOP
 concepts, with various classes for functionalities and features
 such as user access, cart management, order creation and data management.</p>
@@ -73,7 +73,33 @@ Break down business logic into manageable components and apply design patterns.
 Adopt a comprehensive testing approach and perform code reviews.
 Enhance user experience with clear prompts and informative error handling.</p>
 
+<h2>2. HOSPITAL MANAGEMENT SYSTEM USING JAVA </h2>
+<p>
+A Hospital Management System using Java is a software application designed to manage hospital-related activities such as patient information, appointment scheduling, medical history, and billing
+</p>
+<a href=" https://github.com/ajsat007/Hospital- Management-System.git
+">Source Code</a>
 
+<h3>a) Understanding of the project:</h3>
+<p>
+The project is a Hospital Management System developed using Java. It aims to streamline hospital operations by managing patient information, appointment scheduling, medical history, and billing.
+</p>
+<h3>b) Problems (if any):</h3>
+<p>
+Data security and privacy.
+Integration with existing systems.
+User interface and user experience design.
+Scalability and performance optimization.
+Regulatory compliance with healthcare standards.
+</p>
+<h3> c) Solutions: </h3>
+<p>
+Implement robust data security measures.
+Use standardized data exchange formats for integration.
+Conduct user research for intuitive interface design.
+Design for scalability and optimize system performance.
+Ensure compliance with healthcare regulations and standards.
+</p>
 
 
 
