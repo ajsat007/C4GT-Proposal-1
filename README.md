@@ -34,7 +34,7 @@
 </tr>
 </table>
 
-# TITLE
+# Full Stack Developer
 
 <h2>Summary</h2>
 <p>A BBA graduate in Human Resources Management, enthusiastic about
@@ -44,3 +44,11 @@ my skills and knowledge. As a motivated learner, eager to contribute to
 the team and grow professionally in this field.
 
 </p>
+
+# Projects 
+
+<h2>AN ECOMMERCE CONSOLE PROJECT(JAVA)</h2>
+<p>This is an eCommerce console application utilizing OOP
+concepts, with various classes for functionalities and features
+such as user access, cart management, order creation and data management.</p>
+<a href="https://github.com/ajsat007/Ecommerce-Console-"> Source code</a>
