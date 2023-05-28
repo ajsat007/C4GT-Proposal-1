@@ -52,3 +52,28 @@ the team and grow professionally in this field.
 concepts, with various classes for functionalities and features
 such as user access, cart management, order creation and data management.</p>
 <a href="https://github.com/ajsat007/Ecommerce-Console-"> Source code</a>
+
+<h3>a) Understanding of the project:</h3>
+
+<p>The project is a Java-based eCommerce console application developed using OOP concepts. It enables users to perform eCommerce tasks through a command-line interface, such as browsing products, managing shopping carts, and placing orders.</p>
+
+<h3> b) Problems (if any):</h3>
+<p>
+Designing a well-structured class hierarchy.
+Implementing data persistence for user information, products, and orders.
+Managing complex business logic related to pricing, discounts, and order fulfillment.
+Ensuring comprehensive testing and quality assurance.
+Providing a user-friendly interface and handling errors effectively.</p>
+
+<h3>c) Solutions:</h3>
+<p>
+Design a cohesive class hierarchy using OOP principles.
+Implement reliable data persistence with a database or ORM framework.
+Break down business logic into manageable components and apply design patterns.
+Adopt a comprehensive testing approach and perform code reviews.
+Enhance user experience with clear prompts and informative error handling.</p>
+
+
+
+
+
