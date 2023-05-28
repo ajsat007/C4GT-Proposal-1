@@ -18,8 +18,8 @@
 </tr>
 <tr>
 <th>Technical skills with level <br> <em><span>(Mention tech skills known and level Novice/Intermediate/Expert)</span></em></th>
-<td>Java Full Stack developer with handson Knowledge in web developement with Frontend and Backend Technology
-<strong>Skills</strong>
+<td>Java Full Stack developer with handson Knowledge in web developement with Frontend and Backend Technology <br>
+<strong>Skills :- </strong>
 <ul>
   <li>Java (Intermediate)</li>
   <li>MySQL (Intermediate)</li>
@@ -35,3 +35,12 @@
 </table>
 
 # TITLE
+
+<h2>Summary</h2>
+<p>A BBA graduate in Human Resources Management, enthusiastic about
+pursuing a career in Full Stack Development. With a strong interest in
+programming, seeking an advanced role as a Java Developer to leverage
+my skills and knowledge. As a motivated learner, eager to contribute to
+the team and grow professionally in this field.
+
+</p>
